@@ -1,2 +1,2 @@
-# r-project
+# R-projects
 Several self projects made in R
